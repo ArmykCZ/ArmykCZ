@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **a Python-based WiFi pentesting framework for automated deauth, handshake capture, and Evil Twin simulation.**  
-🌱 &nbsp;I'm currently learning **Pentesting, Netorking, Programming**  
+🌱 &nbsp;I'm currently learning **Pentesting, Networking, Programming**  
 👯 &nbsp;I'm looking to collaborate on **building fun tools, coding simple scripts, or tearing down TryHackMe and HackTheBox labs together!**  
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **My ultimate goal is to create an Evil Twin AP that only serves the user a picture of a cat with a fake login form.**
