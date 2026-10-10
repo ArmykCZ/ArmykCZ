@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **a Python-based WiFi pentesting framework for automated deauth, handshake capture, and Evil Twin simulation.**  
-🌱 &nbsp;I'm currently learning **Pentesting, Networking, Programming**  
+🌱 &nbsp;I'm currently learning **Pentesting, Netorking, Programming**  
 👯 &nbsp;I'm looking to collaborate on **building fun tools, coding simple scripts, or tearing down TryHackMe and HackTheBox labs together!**  
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **My ultimate goal is to create an Evil Twin AP that only serves the user a picture of a cat with a fake login form.**
@@ -31,8 +31,8 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mat%C4%9Bj-jaro%C5%A1-a362a5332/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Armycek@proton.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mat%C4%9Bj-jaro%C5%A1-a362a5332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Armycek@proton.me"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
@@ -45,7 +45,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArmykCZ&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ArmykCZ&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
