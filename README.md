@@ -37,10 +37,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="[https://github-readme-stats-five-sigma-99.vercel.app/api?username=ArmykCZ&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true](https://github-readme-stats.shion.dev/api?username=ArmykCZ&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)" alt="stats" />
-  <img height="165" src="[https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ArmykCZ&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8](https://streak-stats.demolab.com/?user=ArmykCZ&theme=shadow_green&hide_border=false)" alt="top langs" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=ArmykCZ&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ArmykCZ&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArmykCZ&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 📈 Contribution Graph
 
